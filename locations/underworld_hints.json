@@ -330,19 +330,19 @@
                     },
                     {
                         "name": "Sealed Cave -- B2F (north side, third door from right) -- left, top (Hint)",
-                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_left_top"]
+                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_from_right_left_top"]
                     },
                     {
                         "name": "Sealed Cave -- B2F (north side, third door from right) -- left, bottom (Hint)",
-                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_left_bottom"]
+                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_from_right_left_bottom"]
                     },
                     {
                         "name": "Sealed Cave -- B2F (north side, third door from right) -- right (Hint)",
-                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_right"]
+                        "visibility_rules": ["sealed_cave_b2f_north_side_third_door_from_right_right"]
                     },
                     {
                         "name": "Sealed Cave -- B2F (north side, second door from right) -- chest (Hint)",
-                        "visibility_rules": ["sealed_cave_b2f_north_side_second_door_chest"]
+                        "visibility_rules": ["sealed_cave_b2f_north_side_second_door_from_right_chest"]
                     },
                     {
                         "name": "Sealed Cave -- B2F to B3F passage -- chest (Hint)",
