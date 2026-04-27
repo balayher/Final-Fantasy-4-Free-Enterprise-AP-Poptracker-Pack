@@ -1365,14 +1365,14 @@
         "codes": "dwarf_castle_east_tower_2f_pot"
     },
     {
-        "name": "tower_of_bab_il_upper_trapdoor_landing_chest",
+        "name": "tower_of_bab_il_lower_trapdoor_landing_chest",
         "type": "toggle",
-        "codes": "tower_of_bab_il_upper_trapdoor_landing_chest"
+        "codes": "tower_of_bab_il_lower_trapdoor_landing_chest"
     },
     {
-        "name": "tower_of_bab_il_upper_falcon_level_chest",
+        "name": "tower_of_bab_il_lower_falcon_level_chest",
         "type": "toggle",
-        "codes": "tower_of_bab_il_upper_falcon_level_chest"
+        "codes": "tower_of_bab_il_lower_falcon_level_chest"
     },
     {
         "name": "tower_of_bab_il_lower_1f_left_top",

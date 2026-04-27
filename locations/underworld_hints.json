@@ -120,63 +120,79 @@
                 "sections": [
                     {
                         "name": "Tower of Bab-il (lower) -- 1F -- left top (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_1f_left_top"]
+                        "visibility_rules": ["tower_of_bab_il_lower_1f_left_top"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 1F -- left bottom (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_1f_left_bottom"]
+                        "visibility_rules": ["tower_of_bab_il_lower_1f_left_bottom"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 1F -- right (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_1f_right"]
+                        "visibility_rules": ["tower_of_bab_il_lower_1f_right"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 2F -- chest (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_2f_chest"]
+                        "visibility_rules": ["tower_of_bab_il_lower_2f_chest"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 2F -- east room chest",
+                        "visibility_rules": ["tower_of_bab_il_lower_2f_east_room_chest"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 2F -- south room chest",
+                        "visibility_rules": ["tower_of_bab_il_lower_2f_south_room_chest"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 3F -- top left (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_3f_top_left"]
+                        "visibility_rules": ["tower_of_bab_il_lower_3f_top_left"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 3F -- right (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_3f_right"]
+                        "visibility_rules": ["tower_of_bab_il_lower_3f_right"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 3F -- bottom (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_3f_bottom"]
+                        "visibility_rules": ["tower_of_bab_il_lower_3f_bottom"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 4F (through 3F southeast door) -- left (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_4f_left"]
+                        "visibility_rules": ["tower_of_bab_il_lower_4f_left"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 4F (through 3F southeast door) -- right (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_4f_right"]
+                        "visibility_rules": ["tower_of_bab_il_lower_4f_right"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 4F -- east left room chest",
+                        "visibility_rules": ["tower_of_bab_il_lower_4f_east_left_room_chest"]
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 4F -- northeast room chest",
+                        "visibility_rules": ["tower_of_bab_il_lower_4f_northeast_room_chest"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 5F -- left (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_5f_left"]
+                        "visibility_rules": ["tower_of_bab_il_lower_5f_left"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 5F -- right (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_5f_right"]
+                        "visibility_rules": ["tower_of_bab_il_lower_5f_right"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 7F -- chest (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_7f_chest"]
+                        "visibility_rules": ["tower_of_bab_il_lower_7f_chest"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 8F -- item (Tower Key slot) (Hint)",
                         "chest_unopened_img": "images/icons/key_tower_unopened.png",
                         "chest_opened_img": "images/icons/key_tower_opened.png",
-                        "visibility_rules": ["tower_of_babil_lower_8f_item_tower_key_slot"]
+                        "visibility_rules": ["tower_of_bab_il_lower_8f_item_tower_key_slot"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 5F -- item (Super Cannon destruction) (Hint)",
                         "chest_unopened_img": "images/icons/boss_dark_imps_unopened.png",
                         "chest_opened_img": "images/icons/boss_dark_imps_opened.png",
-                        "visibility_rules": ["tower_of_babil_lower_5f_item_super_cannon_destruction"]
+                        "visibility_rules": ["tower_of_bab_il_lower_5f_item_super_cannon_destruction"]
                     }
                 ],
                 "map_locations": [

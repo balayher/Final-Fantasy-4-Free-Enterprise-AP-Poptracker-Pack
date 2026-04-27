@@ -112,6 +112,12 @@
                         "name": "Tower of Bab-il (lower) -- 2F -- chest"
                     },
                     {
+                        "name": "Tower of Bab-il (lower) -- 2F -- east room chest"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 2F -- south room chest"
+                    },
+                    {
                         "name": "Tower of Bab-il (lower) -- 3F -- top left"
                     },
                     {
@@ -125,6 +131,12 @@
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 4F (through 3F southeast door) -- right"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 4F -- east left room chest"
+                    },
+                    {
+                        "name": "Tower of Bab-il (lower) -- 4F -- northeast room chest"
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- 5F -- left"

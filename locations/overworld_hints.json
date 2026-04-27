@@ -1507,55 +1507,55 @@
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (west half) -- southwest entrance (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_west_half_southwest_entrance"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_west_half_southwest_entrance"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (west half) -- northwest exit (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_west_half_northwest_exit"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_west_half_northwest_exit"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, left (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_north_entrance_left"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_north_entrance_left"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, right top (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_north_entrance_right_top"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_north_entrance_right_top"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, right bottom (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_north_entrance_right_bottom"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_north_entrance_right_bottom"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, secret path, top (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_north_entrance_secret_path_top"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_north_entrance_secret_path_top"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- north entrance, secret path, bottom (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_north_entrance_secret_path_bottom"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_north_entrance_secret_path_bottom"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (west half) -- bottom, through secret path (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_west_half_bottom_through_secret_path"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_west_half_bottom_through_secret_path"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- bottom (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_bottom"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_bottom"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- southeast corner, left (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_southeast_corner_left"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_southeast_corner_left"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- southeast corner, middle (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_southeast_corner_middle"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_southeast_corner_middle"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (east half) -- southeast corner, right (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_east_half_southeast_corner_right"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_east_half_southeast_corner_right"]
                     },
                     {
                         "name": "Cave Eblana -- Pass to Bab-il (north connection) -- top right (Hint)",
-                        "visibility_rules": ["cave_eblana_pass_to_babil_north_connection_top_right"]
+                        "visibility_rules": ["cave_eblana_pass_to_bab_il_north_connection_top_right"]
                     },
                     {
                         "name": "Cave Eblana -- Exit -- top left, through secret path (Hint)",
@@ -1595,35 +1595,35 @@
                 "sections": [
                     {
                         "name": "Tower of Bab-il (upper) -- 1F -- top (Hint)",
-                        "visibility_rules": ["tower_of_babil_upper_1f_top"]
+                        "visibility_rules": ["tower_of_bab_il_upper_1f_top"]
                     },
                     {
                         "name": "Tower of Bab-il (upper) -- 1F -- right (Hint)",
-                        "visibility_rules": ["tower_of_babil_upper_1f_right"]
+                        "visibility_rules": ["tower_of_bab_il_upper_1f_right"]
                     },
                     {
                         "name": "Tower of Bab-il (upper) -- B2F -- chest (long bridge) (Hint)",
-                        "visibility_rules": ["tower_of_babil_upper_b2f_chest_long_bridge"]
+                        "visibility_rules": ["tower_of_bab_il_upper_b2f_chest_long_bridge"]
                     },
                     {
                         "name": "Tower of Bab-il (upper) -- B3F -- chest (ring bridge) (Hint)",
-                        "visibility_rules": ["tower_of_babil_upper_b3f_chest_ring_bridge"]
+                        "visibility_rules": ["tower_of_bab_il_upper_b3f_chest_ring_bridge"]
                     },
                     {
                         "name": "Tower of Bab-il (upper) -- B4F -- chest (U bridge) (Hint)",
-                        "visibility_rules": ["tower_of_babil_upper_b4f_chest_u_bridge"]
+                        "visibility_rules": ["tower_of_bab_il_upper_b4f_chest_u_bridge"]
                     },
                     {
                         "name": "Tower of Bab-il (upper) -- B5F -- chest (left of crystal room entrance) (Hint)",
-                        "visibility_rules": ["tower_of_babil_upper_b5f_chest_left_of_crystal_room_entrance"]
+                        "visibility_rules": ["tower_of_bab_il_upper_b5f_chest_left_of_crystal_room_entrance"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- Trapdoor landing -- chest (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_trapdoor_landing_chest"]
+                        "visibility_rules": ["tower_of_bab_il_lower_trapdoor_landing_chest"]
                     },
                     {
                         "name": "Tower of Bab-il (lower) -- Falcon level -- chest (Hint)",
-                        "visibility_rules": ["tower_of_babil_lower_falcon_level_chest"]
+                        "visibility_rules": ["tower_of_bab_il_lower_falcon_level_chest"]
                     }
                 ],
                 "map_locations": [
@@ -1641,39 +1641,39 @@
                 "sections": [
                     {
                         "name": "Giant of Bab-il -- Chest -- top left (Hint)",
-                        "visibility_rules": ["giant_of_babil_chest_top_left"]
+                        "visibility_rules": ["giant_of_bab_il_chest_top_left"]
                     },
                     {
                         "name": "Giant of Bab-il -- Chest -- bottom left (Hint)",
-                        "visibility_rules": ["giant_of_babil_chest_bottom_left"]
+                        "visibility_rules": ["giant_of_bab_il_chest_bottom_left"]
                     },
                     {
                         "name": "Giant of Bab-il -- Chest -- middle (Hint)",
-                        "visibility_rules": ["giant_of_babil_chest_middle"]
+                        "visibility_rules": ["giant_of_bab_il_chest_middle"]
                     },
                     {
                         "name": "Giant of Bab-il -- Chest -- top right (Hint)",
-                        "visibility_rules": ["giant_of_babil_chest_top_right"]
+                        "visibility_rules": ["giant_of_bab_il_chest_top_right"]
                     },
                     {
                         "name": "Giant of Bab-il -- Chest -- bottom right (Hint)",
-                        "visibility_rules": ["giant_of_babil_chest_bottom_right"]
+                        "visibility_rules": ["giant_of_bab_il_chest_bottom_right"]
                     },
                     {
                         "name": "Giant of Bab-il -- Stomach -- center (Hint)",
-                        "visibility_rules": ["giant_of_babil_stomach_center"]
+                        "visibility_rules": ["giant_of_bab_il_stomach_center"]
                     },
                     {
                         "name": "Giant of Bab-il -- Stomach -- top right (Hint)",
-                        "visibility_rules": ["giant_of_babil_stomach_top_right"]
+                        "visibility_rules": ["giant_of_bab_il_stomach_top_right"]
                     },
                     {
                         "name": "Giant of Bab-il -- Passage -- chest (Hint)",
-                        "visibility_rules": ["giant_of_babil_passage_chest"]
+                        "visibility_rules": ["giant_of_bab_il_passage_chest"]
                     },
                     {
                         "name": "Giant of Bab-il Character (Hint)",
-                        "visibility_rules": ["giant_of_bab-il_character"],
+                        "visibility_rules": ["giant_of_bab_il_character"],
                         "chest_unopened_img": "images/characters/kain.png",
                         "chest_opened_img": "images/characters/kaindisabled.png"
                     }
@@ -1682,7 +1682,7 @@
                     {
                         "map": "overworld",
                         "x": 653,
-                        "y": 3694
+                        "y": 3644
                     }
                 ]
             }
