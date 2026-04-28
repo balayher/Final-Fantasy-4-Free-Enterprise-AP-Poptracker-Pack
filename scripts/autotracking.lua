@@ -18,6 +18,22 @@ end
 print("---------------------------------------------------------------------")
 print("")
 
+U8_READ_CACHE = 0
+U8_READ_CACHE_ADDRESS = 0
+
+function InvalidateReadCaches()
+  U8_READ_CACHE_ADDRESS = 0
+end
+
+function ReadU8(segment, address)
+  if U8_READ_CACHE_ADDRESS ~= address then
+    U8_READ_CACHE = segment:ReadUInt8( address )
+    U8_READ_CACHE_ADDRESS = address
+  end
+
+  return U8_READ_CACHE
+end
+
 -- loads the AP autotracking code
 ScriptHost:LoadScript("scripts/autotracking/archipelago.lua")
 -- loads the SNES autotracking code

@@ -28,7 +28,7 @@
                     ["crystal","pass","hook","darknesscrystal","earthcrystal","twinharp"],
                     ["package","sandruby","baronkey","magmakey","towerkey","lucakey"],
                     ["adamant","legendsword","pan","spoon","rattail","pinktail"],
-                    ["darkmatter","","","go_mode"]
+                    ["darkmatter","","go_mode","","automapswitch"]
                 ]
             }
         ]

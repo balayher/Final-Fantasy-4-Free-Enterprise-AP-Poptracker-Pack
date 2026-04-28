@@ -122,5 +122,12 @@
     "type": "toggle",
     "img": "images/icons/gomode.png",
     "codes": "go_mode"
+  },
+  {
+    "name": "Auto-Tabbing",
+    "type": "toggle",
+    "img": "images/icons/tabin.png",
+    "initial_active_state": true,
+    "codes": "automapswitch"
   }
 ]
